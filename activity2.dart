@@ -21,3 +21,4 @@ double calculatePerimeter(double length, double width, {bool isSquare = false}) 
       ? 4 * length 
       : 2 * (length + width);
 }
+
